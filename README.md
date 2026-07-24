@@ -61,7 +61,7 @@ I love exploring different technology stacks and applying modern engineering pra
 
 ### 📬 Connect with me
 
-Let's connect and talk about backend engineering, Java, or software design!
+Let's connect and talk about backend and frontend engineering or software design!
 
 - 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/bla%C5%BE-rodi%C4%87-684860197/)
 - 📧 **Email:** [blazrodic1@gmail.com](mailto:blazrodic1@gmail.com)
