@@ -23,13 +23,12 @@ I love exploring different technology stacks and applying modern engineering pra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![QGIS](https://shields.io)](https://qgis.org)
-[![Linux](https://shields.io)](https://linux.org)
-[![Windows](https://shields.io)](https://microsoft.com)
-[![PowerShell](https://shields.io)](https://microsoft.com)
-[![Terminal](https://shields.io)](https://microsoft.com)
-[![ProjectLibre](https://shields.io)](https://projectlibre.com)
-
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![ProjectLibre](https://img.shields.io/badge/ProjectLibre-2C8C3C?style=for-the-badge&logo=projectlibre&logoColor=white)](https://projectlibre.com)
 
 ---
 
