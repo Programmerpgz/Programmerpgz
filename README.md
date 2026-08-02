@@ -23,6 +23,13 @@ I love exploring different technology stacks and applying modern engineering pra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![QGIS](https://shields.io)](https://qgis.org)
+[![Linux](https://shields.io)](https://linux.org)
+[![Windows](https://shields.io)](https://microsoft.com)
+[![PowerShell](https://shields.io)](https://microsoft.com)
+[![Terminal](https://shields.io)](https://microsoft.com)
+[![ProjectLibre](https://shields.io)](https://projectlibre.com)
+
 
 ---
 
