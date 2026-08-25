@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Blaž!
 
-I am a **Software Engineering student** from **Croatia** 🇭🇷. I combine a solid foundation in engineering principles with a deep interest in building powerful, scalable software.
+I am a **Computer/Software Engineering student** from **Croatia** 🇭🇷. I combine a solid foundation in engineering principles with a deep interest in building powerful, scalable software.
 
 I love exploring different technology stacks and applying modern engineering practices to build reliable, production-ready software solutions.
 
