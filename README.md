@@ -77,9 +77,6 @@ I love exploring different technology stacks and applying modern engineering pra
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Programmerpgz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmerpgz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Programmerpgz&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
