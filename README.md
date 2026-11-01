@@ -77,9 +77,8 @@ I love exploring different technology stacks and applying modern engineering pra
 
 <div align="center">
 
-<!-- Zamijeni YOUR_USERNAME svojim GitHub username-om -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Programmerpgz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmerpgz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
 
 <br/>
 
@@ -87,11 +86,10 @@ I love exploring different technology stacks and applying modern engineering pra
 
 <br/><br/>
 
-<!-- Snake animacija: generira je workflow .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Programmerpgz/Programmerpgz/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Programmerpgz/Programmerpgz/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Programmerpgz/Programmerpgz/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -104,7 +102,7 @@ Let's talk about backend and frontend engineering or software design!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/blaž-rodić-684860197/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:blazrodic1@gmail.com">
