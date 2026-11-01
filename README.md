@@ -82,7 +82,7 @@ I love exploring different technology stacks and applying modern engineering pra
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Programmerpgz&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 
 <br/><br/>
 
