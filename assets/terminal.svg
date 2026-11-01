@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#7c4dff" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="880" height="360" rx="16" fill="url(#win)" stroke="#2a3350" filter="url(#shadow)"/>
+  <path d="M10 26a16 16 0 0 1 16-16h848a16 16 0 0 1 16 16v28H10z" fill="#1a2238"/>
+  <circle cx="40" cy="32" r="7" fill="#ff5f56"/>
+  <circle cx="64" cy="32" r="7" fill="#ffbd2e"/>
+  <circle cx="88" cy="32" r="7" fill="#27c93f"/>
+  <text x="450" y="37" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#8892b0">blaz@dev: ~</text>
+
+  <g font-family="'Courier New', Consolas, monospace" font-size="19">
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.06;0.94;1" dur="14s" repeatCount="indefinite"/>
+      <text x="40" y="100"><tspan fill="#00e676">blaz@dev</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#40c4ff">~</tspan><tspan fill="#ffffff">$ whoami</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.12;0.14;0.94;1" dur="14s" repeatCount="indefinite"/>
+      <text x="40" y="132" fill="#e0e6ff">Blaž | Software Engineering student | Croatia</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.26;0.94;1" dur="14s" repeatCount="indefinite"/>
+      <text x="40" y="176"><tspan fill="#00e676">blaz@dev</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#40c4ff">~</tspan><tspan fill="#ffffff">$ cat stack.txt</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.34;0.94;1" dur="14s" repeatCount="indefinite"/>
+      <text x="40" y="208" fill="#ffd54f">Java · Spring Boot · PostgreSQL · Docker · C# · C++</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.46;0.94;1" dur="14s" repeatCount="indefinite"/>
+      <text x="40" y="252"><tspan fill="#00e676">blaz@dev</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#40c4ff">~</tspan><tspan fill="#ffffff">$ cat focus.txt</tspan></text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.52;0.54;0.94;1" dur="14s" repeatCount="indefinite"/>
+      <text x="40" y="284" fill="#ff80ab">backend · microservices · REST APIs · architecture</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.64;0.66;0.94;1" dur="14s" repeatCount="indefinite"/>
+      <text x="40" y="328"><tspan fill="#00e676">blaz@dev</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#40c4ff">~</tspan><tspan fill="#ffffff">$ </tspan></text>
+      <rect x="170" y="312" width="11" height="22" fill="#00e5ff">
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
