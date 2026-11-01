@@ -1,79 +1,116 @@
-# 👋 Hi, I'm Blaž!
+<div align="center">
 
-I am a **Computer/Software Engineering student** from **Croatia** 🇭🇷. I combine a solid foundation in engineering principles with a deep interest in building powerful, scalable software.
+<img src="assets/hero.svg" width="100%" alt="Blaž – Software Engineering Student"/>
 
-I love exploring different technology stacks and applying modern engineering practices to build reliable, production-ready software solutions.
+<br/>
 
----
+![Location](https://img.shields.io/badge/📍_Croatia-🇭🇷-171796?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Backend-0A66C2?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning_&_Building-2ea44f?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7c4dff&style=for-the-badge)
 
-### 🛠️ Tech Stack & Tools
+<br/><br/>
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="assets/terminal.svg" width="85%" alt="terminal"/>
 
-#### Frameworks, Databases & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
-[![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[![ProjectLibre](https://img.shields.io/badge/ProjectLibre-2C8C3C?style=for-the-badge&logo=projectlibre&logoColor=white)](https://projectlibre.com)
+</div>
 
----
+<br/>
 
-### 🧠 Interests & Focus Areas
+## 👋 About Me
 
-- ⚙️ **Backend Development** – Writing clean, efficient, and highly maintainable server-side logic.
-- 🌐 **Distributed Systems & Microservices** – Designing decoupled, resilient, and fault-tolerant architectures.
-- 🏗️ **Software Architecture** – Implementing solid design patterns, OOP principles, and clean code.
-- 🔌 **REST APIs** – Designing secure, well-documented, and scalable web services.
-- 🗄️ **Databases** – Modeling relational data, data persistence, and optimizing queries.
+Hi, I'm **Blaž**, a Computer/Software Engineering student from Croatia 🇭🇷.
+I combine a solid foundation in engineering principles with a deep interest in building **powerful, scalable software**.
 
----
+I love exploring different technology stacks and applying modern engineering practices to build **reliable, production-ready** solutions.
 
-### 📜 Certifications & Red Hat Training
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:7c4dff,100:ff4081&height=3" width="100%" alt="divider"/>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://credly.com" target="_blank">
-        <img src="https://img.shields.io/badge/Red%20Hat-DO188-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="DO188" />
-      </a>
-      <br />
-      <b>Introduction to Containers with Podman (DO188)</b>
-    </td>
-    <td>
-      <a href="https://credly.com" target="_blank">
-        <img src="https://img.shields.io/badge/Red%20Hat-DO180-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="DO180" />
-      </a>
-      <br />
-      <b>Operating a Production Cluster (DO180)</b>
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack & Tools
 
----
+<div align="center">
 
-### 📬 Connect with me
+**Languages**
 
-Let's connect and talk about backend and frontend engineering or software design!
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,asm,js,html,css&perline=7" alt="languages"/>
 
-- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/bla%C5%BE-rodi%C4%87-684860197/)
-- 📧 **Email:** [blazrodic1@gmail.com](mailto:blazrodic1@gmail.com)
+**Frameworks, Databases & Tools**
 
----
+<img src="https://skillicons.dev/icons?i=spring,postgres,mysql,docker,git,linux,windows,powershell,bash&perline=9" alt="tools"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Programmerpgz&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+<img src="https://img.shields.io/badge/ProjectLibre-1F6FB2?style=for-the-badge" alt="ProjectLibre"/>
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:7c4dff,100:ff4081&height=3" width="100%" alt="divider"/>
+
+## 🧠 Interests & Focus Areas
+
+| | Area | What it means to me |
+|---|------|---------------------|
+| ⚙️ | **Backend Development** | Clean, efficient and highly maintainable server-side logic |
+| 🌐 | **Distributed Systems & Microservices** | Decoupled, resilient, fault-tolerant architectures |
+| 🏗️ | **Software Architecture** | Design patterns, OOP principles, clean code |
+| 🔌 | **REST APIs** | Secure, well-documented, scalable web services |
+| 🗄️ | **Databases** | Relational modeling, persistence, query optimization |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:7c4dff,100:ff4081&height=3" width="100%" alt="divider"/>
+
+## 📜 Certifications & Red Hat Training
+
+<div align="center">
+
+| Course | Topic |
+|:------:|:------|
+| 🎓 **DO188** | Introduction to Containers with Podman |
+| 🎓 **DO180** | Operating a Production Cluster |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:7c4dff,100:ff4081&height=3" width="100%" alt="divider"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Zamijeni YOUR_USERNAME svojim GitHub username-om -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+
+<br/><br/>
+
+<!-- Snake animacija: generira je workflow .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:7c4dff,100:ff4081&height=3" width="100%" alt="divider"/>
+
+## 📬 Connect With Me
+
+Let's talk about backend and frontend engineering or software design!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:blazrodic1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c4dff,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
